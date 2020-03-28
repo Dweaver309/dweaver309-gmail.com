@@ -12,5 +12,7 @@ https://github.com/nanoframework/nanoFirmwareFlasher
 
 From the command prompt type install.bat
 
-Congratulations the firmware is installed and you can test the new  “NF.HardwareLib” 
+Congratulations the firmware is installed and you can test the new  â€œNF.HardwareLibâ€ 
+
+To test the library compile the "NF.HardwareLibTest" solution.
 
