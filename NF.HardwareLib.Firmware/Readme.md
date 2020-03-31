@@ -1,4 +1,4 @@
-NanoFramework Firmware Installation Instructions
+﻿NanoFramework Firmware Installation Instructions
 
 Copy this directory to c:\ the new directory will be C:\NF.HardwareLib.Firmware
 
@@ -15,4 +15,6 @@ From the command prompt type install.bat
 Congratulations the firmware is installed and you can test the new  “NF.HardwareLib” 
 
 To test the library compile the "NF.HardwareLibTest" solution.
+
+If nanoFramework packages are updated the firmware will need to be updated.
 
